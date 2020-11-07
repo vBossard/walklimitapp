@@ -1,0 +1,7 @@
+{
+  "name": "walklimit",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
